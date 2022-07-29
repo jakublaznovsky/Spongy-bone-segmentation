@@ -1,4 +1,4 @@
-%This skript is an extension for the Skull analysis described in the paper:
+%This script is an extension for the Skull analysis described in the paper:
 %Sex differences and risk factors for bleeding in 1 Alagille syndrome
 %The input data are already pre-processed in the VG Studio Max software
 %according to the methodology described in the paper.
